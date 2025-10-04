@@ -12,5 +12,9 @@
 - [BOM (XLSX)](BOM.xlsx)
 - [3D model (STEP)](3Dmodel.step)
 
+## History
+See [HISTORY.txt](HISTORY.txt) for project updates and changes.
+
+
 ## License
 Hardware licensed under CERN OHL v2-S (see LICENSE file).
