@@ -10,6 +10,7 @@
 - [PCB Source (Altium)](PCB.zip)
 - [Schematic (PDF)](schematic.pdf)
 - [BOM (XLSX)](BOM.xlsx)
+- [3D model (STEP)](3Dmodel.step)
 
 ## License
 Hardware licensed under CERN OHL v2-S (see LICENSE file).
