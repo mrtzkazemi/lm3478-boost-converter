@@ -1,0 +1,13 @@
+HISTORY / CHANGES
+==================
+
+This file is intended to track modifications to the design.
+
+Please add a new entry when you modify the hardware design.
+Do not delete old entries.
+
+Format:
+- Date (YYYY-MM-DD): Short description of change
+
+Example:
+- 2025-10-04: Initial public release of LM3478 Boost Converter (Morteza)
