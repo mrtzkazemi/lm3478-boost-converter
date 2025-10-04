@@ -7,9 +7,9 @@
 
 ## Files
 - [Gerber](gerber.zip)
-- [PCB Source (Altium)](pcb.zip)
+- [PCB Source (Altium)](PCB.zip)
 - [Schematic (PDF)](schematic.pdf)
-- [BOM (XLSX)](bom.xlsx)
+- [BOM (XLSX)](BOM.xlsx)
 
 ## License
 Hardware licensed under CERN OHL v2-S (see LICENSE file).
